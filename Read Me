@@ -1,0 +1,17 @@
+Good evening
+Important note: Please log in to the application through the following
+user name 
+Password 
+
+Work was done on building the project and designing the interactive interfaces for the user, where the following was done 
+
+* Work on processing the data and displaying it to the user with the ability to add, modify, delete, and modify the private status 
+* Work was done to fetch the data within a custom interface for the user who logged in to the application 
+* Work has been done to bring data to all users with the ability to move between pages to view the results, as each page contains only 10 results 
+* The state managment used GetX and used MVC in designing the application
+* Conditions have been added to verify user input operations 
+* The implementation of the fifth request has not been completed. I would like you to explain some details about it 
+
+Requirements:
+I would like some details about working hours. Do I have to stay online for a specific period of time or only when there is work on something specific?
+Salary received in dollars or local currency?
